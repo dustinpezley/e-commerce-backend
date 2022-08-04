@@ -21,7 +21,7 @@ Running `npm i` will install all relevant dependencies. Node must be installed f
 
 Start the server using `npm start`. Insomnia was used to run all API calls from there.
 
-Video demonstration can be found [here](https://drive.google.com/file/d/1c99e19-UGh2DVGBijoCUV5C0tNr7iiA6/view).
+Video demonstration can be found [here](https://drive.google.com/file/d/1c99e19-UGh2DVGBijoCUV5C0tNr7iiA6/view).  
 ![gif](https://github.com/dustinpezley/e-commerce-backend/blob/041a1a0e3265c58942c224e76bf6f7206a390bec/assets/images/eCommerce%20Backend.gif)
 
 ## Credits

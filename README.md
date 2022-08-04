@@ -26,9 +26,9 @@ Video demonstration can be found [here](https://drive.google.com/file/d/1c99e19-
 
 ## Credits
 
-Sequelize [https://www.npmjs.com/package/sequelize](https://www.npmjs.com/package/sequelize)
-motdotla(dotenv) [https://www.npmjs.com/package/dotenv](https://www.npmjs.com/package/dotenv)
-Expressjs [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
+Sequelize [https://www.npmjs.com/package/sequelize](https://www.npmjs.com/package/sequelize)  
+motdotla(dotenv) [https://www.npmjs.com/package/dotenv](https://www.npmjs.com/package/dotenv)  
+Expressjs [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)  
 sidorares(mysql2) [https://www.npmjs.com/package/mysql2](https://www.npmjs.com/package/mysql2)
 
 ## Contributing
